@@ -130,6 +130,7 @@
     <Content Include="Pics\Headshot.jpg" />
     <Content Include="Pics\Project.jpg" />
     <Content Include="Pics\skills.jpg" />
+    <Content Include="Pics\skills_2305.jpg" />
     <Content Include="Pics\websitescreenshot.png" />
     <Content Include="ProjectsPage.aspx" />
     <Content Include="Scripts\bootstrap.js" />
